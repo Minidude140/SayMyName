@@ -1,4 +1,11 @@
-﻿Option Explicit On
+﻿'Zachary Christensen
+'RCET 2265
+'Fall 2023
+'SayMyName
+'https://github.com/Minidude140/SayMyName.git
+
+
+Option Explicit On
 Option Strict On
 
 Module SayMyName
